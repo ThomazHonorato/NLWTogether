@@ -1,23 +1,9 @@
 {
-  "name": "nlwtogether",
+  "name": "nlWValoriza",
   "version": "1.0.0",
-  "description": "Curso NLW Together",
   "main": "index.js",
-  "dependencies": {
-    "node": "^16.3.0"
-  },
-  "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ThomazHonorato/NLWTogether.git"
-  },
-  "author": "Thomaz Honorato",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/ThomazHonorato/NLWTogether/issues"
-  },
-  "homepage": "https://github.com/ThomazHonorato/NLWTogether#readme"
+  "devDependencies": {
+    "typescript": "^4.3.4"
+  }
 }
